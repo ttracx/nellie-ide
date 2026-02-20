@@ -1,0 +1,9 @@
+node_modules/
+.build/
+out/
+out-build/
+out-editor-src/
+out-vscode/
+out-vscode-min/
+*.js.map
+.DS_Store

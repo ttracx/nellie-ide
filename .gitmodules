@@ -1,0 +1,4 @@
+[submodule "extensions/nellie-submodule"]
+	path = extensions/nellie-submodule
+	url = https://github.com/ttracx/nellie-ide-submodule.git
+	branch = main
