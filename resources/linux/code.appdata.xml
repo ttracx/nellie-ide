@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>@@NAME@@.desktop</id>
+	<metadata_license>@@LICENSE@@</metadata_license>
+	<project_license>@@LICENSE@@</project_license>
+	<name>@@NAME_LONG@@</name>
+	<url type="homepage">https://github.com/ttracx/nellie-ide</url>
+	<summary>Nellie IDE. AI-powered code editing.</summary>
+	<description>
+		<p>Nellie IDE is an AI-powered code editor that combines the power of VSCode with integrated AI assistance for development. See https://github.com/ttracx/nellie-ide for installation instructions.</p>
+	</description>
+	<screenshots>
+		<screenshot type="default">
+			<image>https://code.visualstudio.com/home/home-screenshot-linux-lg.png</image>
+			<caption>Editing TypeScript and searching for extensions</caption>
+		</screenshot>
+	</screenshots>
+</component>
