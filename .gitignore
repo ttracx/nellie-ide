@@ -7,3 +7,11 @@ out-vscode/
 out-vscode-min/
 *.js.map
 .DS_Store
+**/node_modules/
+extensions/nellie-submodule/binary/bin/
+extensions/nellie-submodule/binary/out/
+extensions/nellie-submodule/**/.venv/
+extensions/nellie-submodule/gui/public/assets/*.mp4
+extensions/nellie-submodule/docs/node_modules/
+extensions/nellie-submodule/docs/.docusaurus/
+extensions/nellie-submodule/docs/build/
