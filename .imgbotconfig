@@ -1,0 +1,9 @@
+{
+  "exclusions": [
+    ".vscode/**",
+    "assets/**",
+    "extensions/**",
+    "resources/**",
+    "src/**"
+  ]
+}
