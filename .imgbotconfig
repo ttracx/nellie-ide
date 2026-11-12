@@ -1,9 +1,14 @@
 {
-  "exclusions": [
+  "ignoredFiles": [
     ".vscode/**",
+    "**/.vscode/**",
     "assets/**",
+    "**/assets/**",
     "extensions/**",
+    "**/extensions/**",
     "resources/**",
-    "src/**"
+    "**/resources/**",
+    "src/**",
+    "**/src/**"
   ]
 }
